@@ -18,6 +18,7 @@ loop do
   if counter >= 7
     break
   end
+end
 
 end
 
